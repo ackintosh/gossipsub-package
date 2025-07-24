@@ -1,0 +1,5 @@
+name: github.com/ackintosh/gossipsub-package
+description: |-
+  # github.com/ackintosh/gossipsub-package
+  A Kurtosis package that deploys a Gossipsub network and performs various simulations.
+replace: {}
